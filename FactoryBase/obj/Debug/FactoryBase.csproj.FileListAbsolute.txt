@@ -1,0 +1,92 @@
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Factory.Base.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Factory.Base.pdb
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\EntityFramework.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\EntityFramework.SqlServer.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Unity.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\NLog.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\System.Windows.Interactivity.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\EntityFramework.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\EntityFramework.SqlServer.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Unity.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\NLog.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\obj\Debug\Factory.Base.Properties.Resources.resources
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\obj\Debug\FactoryBase.csproj.GenerateResource.Cache
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\obj\Debug\Factory.Base.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\obj\Debug\Factory.Base.pdb
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\obj\Debug\FactoryBase.csprojResolveAssemblyReference.cache
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryBase\bin\Debug\Factory.Base.dll.config
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Factory.Base.dll.config
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Factory.Base.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Factory.Base.pdb
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\EntityFramework.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\EntityFramework.SqlServer.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Unity.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\NLog.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\System.Windows.Interactivity.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\EntityFramework.xml
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\EntityFramework.SqlServer.xml
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Unity.xml
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\NLog.xml
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\obj\Debug\FactoryBase.csprojResolveAssemblyReference.cache
+D:\KA\TFS_Projects\Factory\FactoryBase\obj\Debug\Factory.Base.Properties.Resources.resources
+D:\KA\TFS_Projects\Factory\FactoryBase\obj\Debug\FactoryBase.csproj.GenerateResource.Cache
+D:\KA\TFS_Projects\Factory\FactoryBase\obj\Debug\Factory.Base.dll
+D:\KA\TFS_Projects\Factory\FactoryBase\obj\Debug\Factory.Base.pdb

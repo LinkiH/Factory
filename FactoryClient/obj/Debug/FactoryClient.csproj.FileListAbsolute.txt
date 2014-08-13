@@ -1,0 +1,182 @@
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Factory.Client.dll.config
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Factory.Client.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Factory.Client.pdb
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\EntityFramework.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Factory.Base.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Factory.Common.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Unity.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\System.Windows.Interactivity.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.GridView.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.Input.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.RibbonView.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Telerik.Windows.Data.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Factory.Base.pdb
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Factory.Common.pdb
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\EntityFramework.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Unity.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.GridView.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.Input.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.RibbonView.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Telerik.Windows.Data.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\obj\Debug\FactoryClient.csprojResolveAssemblyReference.cache
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\obj\Debug\Views\CustomerDetailsView.baml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\obj\Debug\Views\CustomerListView.baml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\obj\Debug\Views\CustomerBarView.baml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\obj\Debug\Views\CustomerDetailsView.g.cs
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\obj\Debug\Views\CustomerListView.g.cs
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\obj\Debug\Views\CustomerBarView.g.cs
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\obj\Debug\Factory.Client_MarkupCompile.cache
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\obj\Debug\Factory.Client.g.resources
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\obj\Debug\Factory.Client.Properties.Resources.resources
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\obj\Debug\FactoryClient.csproj.GenerateResource.Cache
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\obj\Debug\Factory.Client.dll.licenses
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\obj\Debug\Factory.Client.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\obj\Debug\Factory.Client.pdb
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.Docking.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.Docking.xml
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Factory.Assets.dll
+D:\KA\_Projects\Factory\Prototype\_FactoryPrototype v.0\Factory\FactoryClient\bin\Debug\Factory.Assets.pdb
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Factory.Client.dll.config
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Factory.Client.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Factory.Client.pdb
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\EntityFramework.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Factory.Assets.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Factory.Base.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Factory.Common.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Unity.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\System.Windows.Interactivity.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.Docking.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.GridView.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.Input.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.RibbonView.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Data.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Factory.Assets.pdb
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Factory.Base.pdb
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Factory.Common.pdb
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\EntityFramework.xml
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Unity.xml
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.xml
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.Docking.xml
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.GridView.xml
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.Input.xml
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.RibbonView.xml
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Data.xml
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\FactoryClient.csprojResolveAssemblyReference.cache
+D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Views\CustomerDetailsView.baml
+D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Views\CustomerListView.baml
+D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Views\CustomerBarView.baml
+D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Views\CustomerDetailsView.g.cs
+D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Views\CustomerListView.g.cs
+D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Views\CustomerBarView.g.cs
+D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Factory.Client_MarkupCompile.cache
+D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Factory.Client.g.resources
+D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Factory.Client.Properties.Resources.resources
+D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\FactoryClient.csproj.GenerateResource.Cache
+D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Factory.Client.dll.licenses
+D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Factory.Client.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Factory.Client.pdb
+D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Views\CustomerCardView.baml
+D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Views\CustomerCardView.g.cs
