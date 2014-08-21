@@ -100,9 +100,9 @@
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\CustomerType.cs" />
     <Compile Include="Repositories\CustomerRepository.cs" />
-    <Compile Include="Repositories\CustomerType.cs" />
+    <Compile Include="Repositories\CustomerTypeRepository.cs" />
     <Compile Include="Repositories\ICustomerRepository.cs" />
-    <Compile Include="Repositories\ICustomerType.cs" />
+    <Compile Include="Repositories\ICustomerTypeRepository.cs" />
     <Compile Include="Services\GenericDataRepository.cs" />
     <Compile Include="Services\IGenericDataRepository.cs" />
     <Compile Include="Services\EntityBase.cs" />

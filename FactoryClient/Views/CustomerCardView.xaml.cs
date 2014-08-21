@@ -18,7 +18,7 @@ namespace Factory.Client.Views
 {
 	public partial class CustomerCardView : UserControl
 	{
-        public CustomerCardView(CustomerDetailsViewModel vw)
+        public CustomerCardView(CustomerCardViewModel vw)
 		{
 			this.InitializeComponent();
             this.DataContext = vw;

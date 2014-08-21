@@ -24,7 +24,7 @@
 
         public IList<Customer> GetAllCustomers()
         {
-            return _custRepository.GetAll(q=>q.CustomerType);
+            return _custRepository.GetAll(q => q.CustomerType);
         }
 
         public IList<CustomerType> GetAllCustomerTypes()

@@ -4,76 +4,113 @@
 	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
 	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
     xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"
+    xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+    xmlns:prism="http://www.codeplex.com/prism"         
 	mc:Ignorable="d"
-	Width="1380" Height="1000">
+	Width="Auto" Height="Auto">
 
-	<Grid x:Name="LayoutRoot" Background="White">
-		<TextBlock HorizontalAlignment="Left" Height="37.5" Margin="27.5,0,0,0"  VerticalAlignment="Top" Width="148.5" FontSize="24" FontFamily="Century Gothic"><Run Language="ru-ru" Text="Компания"/></TextBlock>
-		<Grid Margin="27.5,37.5,16.5,38.5" Background="#FFE7E7E7" RenderTransformOrigin="0.525,0.516">
-			<TextBlock HorizontalAlignment="Left" Height="33.5" Margin="19.5,15,0,0" VerticalAlignment="Top" Width="230.5" FontFamily="Century Gothic" FontSize="21.333"><Run Language="ru-ru" Text="Основные данные"/></TextBlock>
-			<TabControl Height="223.5" Margin="19.5,0,13.5,222" VerticalAlignment="Bottom" SelectedIndex="0">
-				<TabItem Header="Контрагенты" FontSize="14.667"/>
-				<TabItem Header="Контактные лица" FontSize="14.667">
-					<Grid Background="#FFE5E5E5"/>
-				</TabItem>
-				<TabItem Content="" FontSize="14.667" Header="Адрес доставки"/>
-				<TabItem FontSize="14.667" Header="Депозит"/>
-				<TabItem FontSize="14.667" Header="Файлы"/>
-				<DataGrid Margin="0,64.497,3.75,1.496">
-					<DataGrid.Columns>
-						<DataGridTextColumn FontSize="26.667" Header="Наименование"/>
-						<DataGridTextColumn FontSize="24" Header="ИНН"/>
-						<DataGridTextColumn FontSize="26.667" Header="Телефон"/>
-						<DataGridTextColumn FontSize="26.667" Header="Адрес"/>
-					</DataGrid.Columns>
-				</DataGrid>
-			</TabControl>
-            <TextBox Height="32" Margin="19.5,100,628.5,0" VerticalAlignment="Top" FontSize="18.667" Text="{Binding Path=CurrentCustomer.Name}" >
-				
-			</TextBox>
-			<TextBlock HorizontalAlignment="Left" Height="20" Margin="19.5,66.597,0,0" VerticalAlignment="Top" Width="158.5" FontFamily="Century Gothic" FontSize="18.667" Text="Наименование"/>
-			<TextBlock Height="30" Margin="488,217,0,0" VerticalAlignment="Top" FontFamily="Century Gothic" FontSize="18.667" HorizontalAlignment="Left" Width="146.5"><Run Language="ru-ru" Text="Регион"/></TextBlock>
-			<CheckBox Content="Упаковка" HorizontalAlignment="Left" Height="24" Margin="19.5,162.95,0,0" VerticalAlignment="Top" Width="117" FontSize="18.667"/>
-			<CheckBox Content="Безналичный расчет" HorizontalAlignment="Left" Height="24" Margin="19.5,247,0,0" VerticalAlignment="Top" Width="199.5" FontSize="18.667"/>
-			<TextBlock HorizontalAlignment="Left" Height="28" Margin="19.5,300.5,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="131.5" FontSize="18.667"><Run Language="ru-ru" Text="Ответственнный"/></TextBlock>
-			<TextBlock Height="25.5" Margin="0,9.5,381.5,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="21.333" HorizontalAlignment="Right" Width="192"><Run Language="ru-ru" Text="Контактные данные"/></TextBlock>
-			<TextBlock Height="32.863" Margin="488,144.597,0,0" TextWrapping="Wrap" Text="Скидка" VerticalAlignment="Top" FontSize="18.667" HorizontalAlignment="Left" Width="114"/>
-			<Button Content="доб." HorizontalAlignment="Left" Height="33.097" Margin="37,0,0,372" VerticalAlignment="Bottom" Width="67.5" FontSize="18.667"/>
-			<Button Content="изм." HorizontalAlignment="Left" Height="33.097" Margin="137.5,0,0,371.18" VerticalAlignment="Bottom" Width="61.5" RenderTransformOrigin="0.019,0.311" FontSize="18.667"/>
+    <i:Interaction.Triggers>
+        <prism:InteractionRequestTrigger SourceObject="{Binding NotificationRequest, Mode=OneWay}">
+            <prism:PopupWindowAction IsModal="True" CenterOverAssociatedObject="True"/>
+        </prism:InteractionRequestTrigger>
+        
+    </i:Interaction.Triggers>
 
-            <telerik:RadButton Content="Сохранить" HorizontalAlignment="Right" Height="34.5" Margin="0,0,159,43" VerticalAlignment="Bottom" Width="115.5" FontSize="14.667" Command="{Binding SaveClickCommand}"/>
-            <telerik:RadButton Content="Закрыть" HorizontalAlignment="Right" Height="34.5" Margin="0,0,13.5,43" VerticalAlignment="Bottom" Width="115.5" FontSize="14.667" Command="{Binding CancelClickCommand}"/>
-			
-			<ScrollBar HorizontalAlignment="Right" Height="75" Margin="0,0,13.5,100" VerticalAlignment="Bottom" Width="25.5"/>
-			<TextBlock HorizontalAlignment="Left" Height="20" Margin="327,42.597,0,0" VerticalAlignment="Top" Width="121" FontFamily="Century Gothic" FontSize="18.667" RenderTransformOrigin="0.169,1.795"><Run Language="ru-ru" Text="Тип компании"/></TextBlock>
+        <Grid x:Name="LayoutRoot">
+        <TextBlock HorizontalAlignment="Left" Height="38" Margin="28,22,0,0"  VerticalAlignment="Top" Width="150" FontSize="24" FontFamily="Century Gothic"><Run Language="ru-ru" Text="Компания"/></TextBlock>
+        <Grid Margin="20 20 20 20" >
+            
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="500" />
+                <ColumnDefinition Width="300" />
+                <ColumnDefinition Width="1*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="150" />
+                <RowDefinition Height="400" />
+                <RowDefinition Height="100" />
+            </Grid.RowDefinitions>
 
-            <telerik:RadComboBox Height="34.863" Margin="473.5,42.597,628.5,0" 
-                                 VerticalAlignment="Top" SelectedIndex="0" FontSize="14.667" 
-                                 ItemsSource="{Binding Path=CustomerTypes}" DisplayMemberPath="Name"
-                                 SelectedItem="{Binding CurrentCustomerType, Mode=TwoWay}"/>
-            <ComboBox Height="34.863" Margin="488,247,628.5,0" VerticalAlignment="Top" SelectedIndex="0" FontSize="14.667">
-				<ComboBoxItem Content=""/>
-			</ComboBox>
-			<ComboBox Height="34.863" Margin="488,177.46,628.5,0" VerticalAlignment="Top" SelectedIndex="0" FontSize="14.667">
-				<ComboBoxItem Content=""/>
-			</ComboBox>
-			<ComboBox Height="34.863" Margin="19.5,341,628.5,0" VerticalAlignment="Top" SelectedIndex="0" FontSize="14.667">
-				<ComboBoxItem Content=""/>
-			</ComboBox>
-			<TextBlock HorizontalAlignment="Left" Height="28" Margin="19.5,382.44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="350.5" FontSize="18.667"><Run Language="ru-ru" Text="Дилер/представительство "/></TextBlock>
-			<ComboBox Margin="19.5,410.44,628.5,0" SelectedIndex="0" FontSize="14.667" Height="34.863" VerticalAlignment="Top">
-				<ComboBoxItem Content=""/>
-			</ComboBox>
-			<RichTextBox HorizontalAlignment="Right" Height="318.403" Margin="0,42.597,97,0" VerticalAlignment="Top" Width="476.5">
-				<FlowDocument/>
-			</RichTextBox>
-			<Button Content="доб." HorizontalAlignment="Left" Height="30" Margin="1260,47,0,0" VerticalAlignment="Top" Width="36"/>
-			<CheckBox Content="Отправить на e-mail" HorizontalAlignment="Right" Height="24" Margin="0,386.44,353,0" VerticalAlignment="Top" Width="220.5" FontSize="18.667"/>
-			<Button Content="доб." HorizontalAlignment="Right" Height="43.5" Margin="0,106.5,13.5,0" VerticalAlignment="Top" Width="63" FontSize="18.667"/>
-			<Button Content="изм." HorizontalAlignment="Right" Height="43.5" Margin="0,186.95,13.5,0" VerticalAlignment="Top" Width="63" FontSize="18.667"/>
+            <StackPanel Grid.Row="0" Orientation="Vertical">
+                <TextBlock HorizontalAlignment="Left" Height="34" Margin="20 40 0 0" VerticalAlignment="Top" Width="232" FontFamily="Century Gothic" FontSize="20"><Run Language="ru-ru" Text="Основные данные"/></TextBlock>
+                <TextBlock HorizontalAlignment="Left" Height="20" Margin="20 0 0 0" VerticalAlignment="Top" Width="160" FontFamily="Century Gothic" FontSize="17" Text="Наименование:"/>
+                <TextBox Height="25" Margin="20 10 20 20" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="15" Width="232" Text="{Binding CurrentCustomer.Name}" />
+            </StackPanel>
 
-            <TextBlock HorizontalAlignment="Left" Height="28.5" Margin="19.5,0,0,175" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="150" FontSize="14.667"><Run Language="ru-ru" Text="Комментарий"/></TextBlock>
-            <TextBox Height="75" Margin="19.5,0,13.5,100" TextWrapping="Wrap" VerticalAlignment="Bottom" Text="{Binding Path=CurrentCustomer.Descr}"/>
-		</Grid>
-	</Grid>
+            <StackPanel Grid.Row="0" Grid.Column="1" Orientation="Horizontal" VerticalAlignment="Top">
+                <telerik:RadButton Content="Сохранить"  Height="30"  Width="100" Command="{Binding SaveClickCommand}" Margin="20 20 20 20" />
+                <telerik:RadButton Content="Отменить" Height="30"  Width="100" Command="{Binding CancelClickCommand}" Margin="20 20 20 20"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1">
+                <TextBlock HorizontalAlignment="Left" Height="20" Margin="20 20 0 0" VerticalAlignment="Top" Width="140" FontFamily="Century Gothic" FontSize="17" RenderTransformOrigin="0.169,1.795"><Run Language="ru-ru" Text="Тип компании"/></TextBlock>
+                <ComboBox Height="35" Width="200" Margin="20,20" VerticalAlignment="Top" FontSize="15" 
+                          ItemsSource="{Binding CustomerTypes}" DisplayMemberPath="Name"  
+                          SelectedItem="{Binding Path=CurrentCustomerType}" 
+                          SelectedValue="{Binding Path=CurrentCustomerType.Id}"
+                          SelectedValuePath="Id"
+                          IsSynchronizedWithCurrentItem="True"/>
+
+                <TabControl Height="224" Margin="12,0,12,20" VerticalAlignment="Bottom" SelectedIndex="0">
+                    <TabItem Header="Контрагенты" FontSize="14.667"/>
+                    <TabItem Header="Контактные лица" FontSize="14.667">
+                        <Grid Background="#FFE5E5E5"/>
+                    </TabItem>
+                    <TabItem Content="" FontSize="14.667" Header="Адрес доставки"/>
+                    <TabItem FontSize="14.667" Header="Депозит"/>
+                    <TabItem FontSize="14.667" Header="Файлы"/>
+                    <DataGrid Margin="0,64.497,3.75,1.496">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn FontSize="26.667" Header="Наименование"/>
+                            <DataGridTextColumn FontSize="24" Header="ИНН"/>
+                            <DataGridTextColumn FontSize="26.667" Header="Телефон"/>
+                            <DataGridTextColumn FontSize="26.667" Header="Адрес"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </TabControl>
+                
+            </StackPanel>
+
+            
+            
+
+            <!--<StackPanel Grid.Row="1" Grid.Column="1">
+
+
+                
+
+                <TextBlock Height="30" VerticalAlignment="Top" FontFamily="Century Gothic" FontSize="18.667" HorizontalAlignment="Left" Width="147"><Run Language="ru-ru" Text="Регион"/></TextBlock>
+                <CheckBox Content="Упаковка" HorizontalAlignment="Left" Height="24" VerticalAlignment="Top" Width="117" FontSize="18.667"/>
+                <CheckBox Content="Безналичный расчет" HorizontalAlignment="Left" Height="24"  VerticalAlignment="Top" Width="200" FontSize="18.667"/>
+                <TextBlock HorizontalAlignment="Left" Height="28" TextWrapping="Wrap" VerticalAlignment="Top" Width="158" FontSize="18.667"><Run Language="ru-ru" Text="Ответственнный"/></TextBlock>
+                <TextBlock Height="26" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="21.333" HorizontalAlignment="Right" Width="280"><Run Language="ru-ru" Text="Контактные данные"/></TextBlock>
+                <TextBlock Height="33" TextWrapping="Wrap" Text="Скидка" VerticalAlignment="Top" FontSize="18.667" HorizontalAlignment="Left" Width="114"/>
+                
+
+               
+
+
+                <ComboBox Height="35" VerticalAlignment="Top" SelectedIndex="0" FontSize="14.667">
+                    <ComboBoxItem Content=""/>
+                </ComboBox>
+                <ComboBox Height="35"  VerticalAlignment="Top" SelectedIndex="0" FontSize="14.667">
+                    <ComboBoxItem Content=""/>
+                </ComboBox>
+                <ComboBox Height="35"  VerticalAlignment="Top" SelectedIndex="0" FontSize="14.667">
+                    <ComboBoxItem Content=""/>
+                </ComboBox>
+                <TextBlock HorizontalAlignment="Left" Height="28"  TextWrapping="Wrap" VerticalAlignment="Top" Width="352" FontSize="18.667"><Run Language="ru-ru" Text="Дилер/представительство "/></TextBlock>
+                <ComboBox SelectedIndex="0" FontSize="14.667" Height="35" VerticalAlignment="Top">
+                    <ComboBoxItem Content=""/>
+                </ComboBox>
+                <RichTextBox HorizontalAlignment="Right" Height="215" Margin="0,197,40,0" VerticalAlignment="Top" Width="352">
+                    <FlowDocument/>
+                </RichTextBox>
+                <CheckBox Content="Отправить на e-mail" HorizontalAlignment="Right" Height="24" Margin="0,530,224,0" VerticalAlignment="Top" Width="221" FontSize="18.667"/>
+
+                <TextBlock HorizontalAlignment="Left" Height="29" Margin="10,0,0,99" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="150" FontSize="14.667"><Run Language="ru-ru" Text="Комментарий"/></TextBlock>
+                <TextBox Height="75" Margin="10,0,40,20" TextWrapping="Wrap" VerticalAlignment="Bottom" Text="{Binding Path=CurrentCustomer.Descr}"/>
+            </StackPanel>-->
+        </Grid>
+    </Grid>
 </UserControl>

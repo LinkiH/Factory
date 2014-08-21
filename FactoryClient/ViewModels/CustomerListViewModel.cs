@@ -28,11 +28,11 @@
         #region Private Properties
 
         private readonly ObservableCollection<Customer> _customers;
-        private readonly ICollectionView customersView;
+        private readonly ICollectionView _collectionView;
         private Customer _currentCustomer;
         private IUnityContainer _container;
-        private IRegionManager _regionManager;
-        private IEventAggregator _eventAggregator;
+        private readonly IRegionManager _regionManager;
+        private readonly IEventAggregator _eventAggregator;
         private IClientLayer _clientLayer;
 
         #endregion
@@ -81,12 +81,12 @@
 
         private bool CanExecuteEditCustomerDetails(bool? show)
         {
-            return this.customersView.CurrentItem != null;
+            return this._collectionView.CurrentItem != null;
         }
 
         private void EditCustomerDetails()
         {
-            _currentCustomer = customersView.CurrentItem as Customer;
+            _currentCustomer = _collectionView.CurrentItem as Customer;
             if (_currentCustomer != null)
             {
                 ShowCustomersDetails(false);
@@ -103,16 +103,13 @@
 
         public ICollectionView Customers 
         {
-            get { return customersView; }
+            get { return _collectionView; }
         }
 
         #endregion Public Properties
 
         #region Constructor
 
-        /// <summary>
-        /// Initializes a new instance of the <see cref="ProductViewModel"/> class.
-        /// </summary>
         public CustomerListViewModel(IUnityContainer container,
                             IRegionManager regionManager,
                             IEventAggregator eventAggregator)
@@ -125,12 +122,14 @@
 
 
             _customers = new ObservableCollection<Customer>();
-            customersView = new ListCollectionView(_customers);
+            _collectionView = new ListCollectionView(_customers);
 
             _editCustomerDetailsCommand = new DelegateCommand<bool?>(this.ExecuteEditCustomerDetails, this.CanExecuteEditCustomerDetails);
             _сreateCustomerCommand = new DelegateCommand<Customer>(this.CreateCustomer);
 
-            customersView.CurrentChanged += (s, e) => _editCustomerDetailsCommand.RaiseCanExecuteChanged();
+            _collectionView.CurrentChanged += (s, e) => _editCustomerDetailsCommand.RaiseCanExecuteChanged();
+
+            _collectionView.CurrentChanged += new EventHandler(this.SelectedCustomerChanged);
 
             IEnumerable<Customer> newCustomers = _clientLayer.GetAllCustomers();
             foreach (var item in newCustomers)
@@ -188,9 +187,16 @@
             //_regionManager.RequestNavigate(RegionNames.MainRegion,new Uri(ViewNames.CustomerDetailsView, UriKind.Relative), navigationParameters);
         }
 
+       
+
         private void SelectedCustomerChanged(object sender, EventArgs e)
         {
             //для динамического просмотра
+            _currentCustomer = _collectionView.CurrentItem as Customer;
+            if (_currentCustomer != null)
+            {
+                _eventAggregator.GetEvent<CustomerSelectedEvent>().Publish(_currentCustomer.Id);
+            }
         }
 
         #endregion Private Methods

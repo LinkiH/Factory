@@ -85,8 +85,8 @@ D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\ko\System.Windows.Interactivity
 D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\ru\System.Windows.Interactivity.resources.dll
 D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
 D:\KA\TFS_Projects\Factory\FactoryBase\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
-D:\KA\TFS_Projects\Factory\FactoryBase\obj\Debug\FactoryBase.csprojResolveAssemblyReference.cache
 D:\KA\TFS_Projects\Factory\FactoryBase\obj\Debug\Factory.Base.Properties.Resources.resources
 D:\KA\TFS_Projects\Factory\FactoryBase\obj\Debug\FactoryBase.csproj.GenerateResource.Cache
 D:\KA\TFS_Projects\Factory\FactoryBase\obj\Debug\Factory.Base.dll
 D:\KA\TFS_Projects\Factory\FactoryBase\obj\Debug\Factory.Base.pdb
+D:\KA\TFS_Projects\Factory\FactoryBase\obj\Debug\FactoryBase.csprojResolveAssemblyReference.cache

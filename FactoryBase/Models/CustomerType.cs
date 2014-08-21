@@ -14,21 +14,13 @@ namespace Factory.Base.Models
         {
             this.Customers = new ObservableCollection<Customer>();
         }
-        private string _Name;
-        [Required] [MaxLength(50)]
-        public string Name
-        {
-            get { return _Name; }
-            set { _Name = value; OnPropertyChanged(() => Name); }
-        }
 
-        private string _Descr;
+        [Required]
         [MaxLength(50)]
-        public string Descr
-        {
-            get { return _Descr; }
-            set { _Descr = value; OnPropertyChanged(() => Descr); }
-        }
+        public string Name { get; set; }
+
+        [MaxLength(50)]
+        public string Descr { get; set; }
 
         public virtual ObservableCollection<Customer> Customers { get; private set; } 
 

@@ -14,73 +14,30 @@
         //public int Id { get; set; } Генерится из Entity.cs
         
         //public string Name { get; set; }
-        private string _Name;
         [Required] [MaxLength(50)] //поле обязательное и ограничено по длине 250
-        public string Name
-        {
-            get { return _Name; }
-            set { _Name = value; OnPropertyChanged(() => Name); }
-        }
+        public string Name { get; set; }
 
-        private string _Code;
         [MaxLength(50)]
-        public string Code 
-        {
-            get { return _Code ; }
-            set { _Code = value; OnPropertyChanged(() => Code); }
-        }
+        public string Code { get; set; } 
 
-        private string _Descr;
         [MaxLength(250)] 
-        public string Descr 
-        {
-            get { return _Descr; }
-            set { _Descr = value; OnPropertyChanged(() => Descr); }
-        }
+        public string Descr { get; set; }
 
-        private Nullable<DateTime> _DateCreate;
-        public Nullable<DateTime> DateCreate 
-        {
-            get { return _DateCreate; }
-            set { _DateCreate = value; OnPropertyChanged(() => DateCreate); }
-        }
+        public Nullable<DateTime> DateCreate { get; set; }  
 
-        private Nullable<DateTime> _DateUpdate;
-        public Nullable<DateTime> DateUpdate 
-        {
-            get { return _DateUpdate; }
-            set { _DateUpdate = value; OnPropertyChanged(()=> DateUpdate);} 
-        }
+        public Nullable<DateTime> DateUpdate { get; set; } 
 
         //Основные контакты
-        private string _Phone;
         [MaxLength(50)] 
-        public string Phone 
-        {
-            get { return _Phone;}
-            set { _Phone = value; OnPropertyChanged(() => Phone); } 
-        }
+        public string Phone { get; set; } 
 
-        private string _Email;
         [MaxLength(50)] 
-        public string Email 
-        {
-            get { return _Email;}
-            set { _Email = value; OnPropertyChanged(() => Email); } 
-        }
-
-        private string _Website;
+        public string Email { get; set; }  
+    
         [MaxLength(50)] 
-        public string Website 
-        {
-            get { return _Website; }
-            set { _Website = value; OnPropertyChanged(() => Website); }
-        }
+        public string Website { get; set; } 
 
         //Реквизиты бизнес-логики
-        public Nullable<int> PaymentId { get; set; }
-        public Nullable<decimal> PecentDiscount { get; set; }
-        public Nullable<bool> IsOnce { get; set; }
 
         public int CustomerTypeId { get; set; }
         public virtual CustomerType CustomerType { get; set; } 

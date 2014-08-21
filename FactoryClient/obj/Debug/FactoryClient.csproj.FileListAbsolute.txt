@@ -97,6 +97,7 @@ D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Factory.Assets.dll
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Factory.Base.dll
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Factory.Common.dll
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.Composition.dll
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
@@ -109,6 +110,7 @@ D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Unity.Con
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Unity.dll
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\System.Windows.Interactivity.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.Data.dll
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.dll
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.Docking.dll
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.GridView.dll
@@ -132,6 +134,7 @@ D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Unity.xml
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.xml
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.Data.xml
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.Docking.xml
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.GridView.xml
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\Telerik.Windows.Controls.Input.xml
@@ -148,6 +151,16 @@ D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\ko\Microsoft.Expression.Inter
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\de\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\en\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\es\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\fr\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\it\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\ja\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\ko\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\ru\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Interactivity.resources.dll
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\de\System.Windows.Interactivity.resources.dll
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\en\System.Windows.Interactivity.resources.dll
 D:\KA\TFS_Projects\Factory\FactoryClient\bin\Debug\es\System.Windows.Interactivity.resources.dll
@@ -168,9 +181,11 @@ D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\FactoryClient.csprojResolveAs
 D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Views\CustomerDetailsView.baml
 D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Views\CustomerListView.baml
 D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Views\CustomerBarView.baml
+D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Views\CustomerCardView.baml
 D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Views\CustomerDetailsView.g.cs
 D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Views\CustomerListView.g.cs
 D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Views\CustomerBarView.g.cs
+D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Views\CustomerCardView.g.cs
 D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Factory.Client_MarkupCompile.cache
 D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Factory.Client.g.resources
 D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Factory.Client.Properties.Resources.resources
@@ -178,5 +193,3 @@ D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\FactoryClient.csproj.Generate
 D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Factory.Client.dll.licenses
 D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Factory.Client.dll
 D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Factory.Client.pdb
-D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Views\CustomerCardView.baml
-D:\KA\TFS_Projects\Factory\FactoryClient\obj\Debug\Views\CustomerCardView.g.cs

@@ -1,23 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-using Microsoft.Practices.Prism.Modularity;
-using Microsoft.Practices.Prism.Regions;
-using Microsoft.Practices.ServiceLocation;
-using Microsoft.Practices.Prism.UnityExtensions;
-using Microsoft.Practices.Unity;
-
-using Factory.Base;
-using Factory.Base.Repositories;
-using Factory.Base.Services;
-using Factory.Base.Models;
-using System.Data.Entity;
-
+﻿
 namespace Factory.Base
 {
+    using Microsoft.Practices.Prism.Modularity;
+    using Microsoft.Practices.Prism.Regions;
+    using Microsoft.Practices.Unity;
+
+    using Factory.Base.Repositories;
+
     public class BaseModule : IModule
 
     {
@@ -26,10 +15,10 @@ namespace Factory.Base
             Container = container;
             RegionManager = regionManager;
 
-            Database.SetInitializer(new FactoryDbInitializer());
+            //Database.SetInitializer(new FactoryDbInitializer());
 
-            ICustomerRepository _custRepository = new CustomerRepository();
-            var findCustomer = _custRepository.GetSingle(d => d.Name.Equals("Основной заказчик"));
+            ICustomerRepository custRepository = new CustomerRepository();
+            var findCustomer = custRepository.GetSingle(d => d.Name.Equals("Основной заказчик1"));
             //if (findCustomer == null)
             //{
             //    Customer customer = new Customer();

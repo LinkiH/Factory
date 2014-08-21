@@ -12,19 +12,21 @@
             <RowDefinition Height="490" />
             <RowDefinition Height="Auto" />
         </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
 
-        <telerik:RadButton Content="Создать" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Height="30" 
-                           Grid.Row="0" Margin="8" Command="{Binding CreateCustomerCommand}">
-        </telerik:RadButton>
         
+        <telerik:RadButton Content="Создать" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Height="30" 
+                           Grid.Row="0" Grid.Column="0" Margin="8" Command="{Binding CreateCustomerCommand}"/>
+
+
         <telerik:RadButton Content="Изменить" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Height="30" 
-                           Grid.Row="0" Margin="113,8,0,0" Command="{Binding EditCustomerDetailsCommand}">
+                           Grid.Row="0" Grid.Column="0" Margin="113,8,0,0" Command="{Binding EditCustomerDetailsCommand}">
             <telerik:RadButton.CommandParameter>
                 <sys:Boolean>True</sys:Boolean>
             </telerik:RadButton.CommandParameter>
         </telerik:RadButton>
-
-        
         
         <telerik:RadGridView Grid.Row="1" Grid.Column="0" SelectionMode="Single"
                              Margin="8"
@@ -36,7 +38,7 @@
             <telerik:RadGridView.Columns>
                 <telerik:GridViewDataColumn Width="1*" Header="Название" DataMemberBinding="{Binding Name}"/>
                 <telerik:GridViewDataColumn Width="1*" Header="Описание" DataMemberBinding="{Binding Descr}"/>
-                <telerik:GridViewDataColumn Width="1*" Header="Телефон" DataMemberBinding="{Binding Phone}"/>
+                <telerik:GridViewDataColumn Width="1*" Header="Тип" DataMemberBinding="{Binding CustomerType.Name}"/>
             </telerik:RadGridView.Columns>
 
         </telerik:RadGridView>
